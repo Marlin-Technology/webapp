@@ -1,6 +1,6 @@
 {
   "name": "webapp",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "description": "Skeleton for WebApps",
   "main": "app.js",
   "dependencies": {
