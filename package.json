@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Skeleton for WebApps",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raphael910401/webapp.git"
+  },
+  "author": "Rafael Escalante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raphael910401/webapp/issues"
+  },
+  "homepage": "https://github.com/Raphael910401/webapp#readme",
+  "keywords": [
+    "WebApp"
+  ]
+}
