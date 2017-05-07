@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Skeleton for WebApps",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "multer": "^1.3.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
