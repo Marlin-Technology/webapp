@@ -17,9 +17,9 @@ var sequelize = new Sequelize('test',
                               'rescalante', 
                               '910401ee', 
             		      {	   
-                                   dialect: 'postgres', 
+                                   dialect: 'mysql', 
               			   host: '192.168.1.244',
-				   port: '5432'
+				   port: '3306'
 			      });
 
 sequelize.authenticate().then(function(errors) { console.log(errors) });
